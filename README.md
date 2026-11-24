@@ -1,7 +1,7 @@
 # Code Snippet
 
-## Java
+Java
 |
-|__ Addition
+|--Addition
 |
-|__Prime numbers
+|--Prime numbers
